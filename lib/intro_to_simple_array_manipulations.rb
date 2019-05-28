@@ -7,5 +7,5 @@ def using_unshift(array,string)
 end
 
 def using_pop(array)
-  deleted_string=array.pop("great_hits_of_the_nineties")
+  array.pop
 end
